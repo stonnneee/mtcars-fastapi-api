@@ -31,7 +31,6 @@ python scripts/train_model.py
 ## Repository Structure
 
 ```text
-
 mtcars-fastapi-api/
 ├── README.md
 ├── Dockerfile

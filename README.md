@@ -67,7 +67,7 @@ Clone the repository:
 
 ```bash
 git clone YOUR_GITHUB_REPO_URL
-cd hw3
+cd YOUR_FOLDER
 ```
 
 Create and activate a virtual environment:

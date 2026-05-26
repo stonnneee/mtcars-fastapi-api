@@ -64,13 +64,6 @@ mtcars-fastapi-api/
 
 ## Local Setup
 
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPO_URL
-cd YOUR_FOLDER
-```
-
 Create and activate a virtual environment:
 
 ```bash

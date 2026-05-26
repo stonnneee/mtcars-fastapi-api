@@ -277,9 +277,3 @@ curl -X POST "https://mtcars-fastapi-5130901709.us-west2.run.app/predict" \
   -H "Content-Type: application/json" \
   -d '{"wt": 2.62, "hp": 110}'
 ```
-
-## GitHub Repository
-
-```text
-YOUR_GITHUB_REPO_URL
-```
